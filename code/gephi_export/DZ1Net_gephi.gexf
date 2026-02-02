@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-02-02">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="Student_015" label="Student_015" />
+      <node id="Student_020" label="Student_020" />
+      <node id="Student_008" label="Student_008" />
+      <node id="Student_009" label="Student_009" />
+      <node id="Student_002" label="Student_002" />
+      <node id="Student_030" label="Student_030" />
+      <node id="Student_038" label="Student_038" />
+      <node id="Student_023" label="Student_023" />
+      <node id="Student_013" label="Student_013" />
+      <node id="Student_021" label="Student_021" />
+      <node id="Student_024" label="Student_024" />
+      <node id="Student_016" label="Student_016" />
+      <node id="Student_042" label="Student_042" />
+      <node id="Student_011" label="Student_011" />
+      <node id="Student_032" label="Student_032" />
+      <node id="Student_029" label="Student_029" />
+      <node id="Student_043" label="Student_043" />
+      <node id="Student_037" label="Student_037" />
+      <node id="Student_047" label="Student_047" />
+      <node id="Student_045" label="Student_045" />
+      <node id="Student_025" label="Student_025" />
+      <node id="Student_007" label="Student_007" />
+      <node id="Student_031" label="Student_031" />
+      <node id="Student_035" label="Student_035" />
+      <node id="Student_046" label="Student_046" />
+      <node id="Student_001" label="Student_001" />
+      <node id="Student_027" label="Student_027" />
+      <node id="Student_003" label="Student_003" />
+      <node id="Student_036" label="Student_036" />
+      <node id="Student_006" label="Student_006" />
+      <node id="Student_022" label="Student_022" />
+      <node id="Student_044" label="Student_044" />
+      <node id="Student_034" label="Student_034" />
+      <node id="Student_028" label="Student_028" />
+      <node id="Student_010" label="Student_010" />
+      <node id="Student_018" label="Student_018" />
+      <node id="Student_019" label="Student_019" />
+      <node id="Student_026" label="Student_026" />
+      <node id="Student_049" label="Student_049" />
+      <node id="Student_050" label="Student_050" />
+      <node id="Student_048" label="Student_048" />
+      <node id="Student_033" label="Student_033" />
+      <node id="Student_041" label="Student_041" />
+      <node id="Student_040" label="Student_040" />
+    </nodes>
+    <edges>
+      <edge source="Student_015" target="Student_035" id="0" weight="26" />
+      <edge source="Student_015" target="Student_050" id="1" weight="13" />
+      <edge source="Student_015" target="Student_030" id="2" weight="9" />
+      <edge source="Student_015" target="Student_001" id="3" weight="6" />
+      <edge source="Student_015" target="Student_046" id="4" weight="6" />
+      <edge source="Student_015" target="Student_032" id="5" weight="6" />
+      <edge source="Student_015" target="Student_010" id="6" weight="4" />
+      <edge source="Student_015" target="Student_036" id="7" weight="4" />
+      <edge source="Student_015" target="Student_021" id="8" weight="4" />
+      <edge source="Student_020" target="Student_037" id="9" weight="20" />
+      <edge source="Student_020" target="Student_009" id="10" weight="20" />
+      <edge source="Student_020" target="Student_008" id="11" weight="17" />
+      <edge source="Student_020" target="Student_023" id="12" weight="16" />
+      <edge source="Student_020" target="Student_013" id="13" weight="15" />
+      <edge source="Student_020" target="Student_025" id="14" weight="15" />
+      <edge source="Student_020" target="Student_016" id="15" weight="14" />
+      <edge source="Student_020" target="Student_031" id="16" weight="13" />
+      <edge source="Student_020" target="Student_002" id="17" weight="12" />
+      <edge source="Student_020" target="Student_024" id="18" weight="12" />
+      <edge source="Student_020" target="Student_049" id="19" weight="10" />
+      <edge source="Student_020" target="Student_044" id="20" weight="9" />
+      <edge source="Student_020" target="Student_043" id="21" weight="9" />
+      <edge source="Student_020" target="Student_032" id="22" weight="9" />
+      <edge source="Student_020" target="Student_047" id="23" weight="8" />
+      <edge source="Student_020" target="Student_028" id="24" weight="8" />
+      <edge source="Student_020" target="Student_027" id="25" weight="8" />
+      <edge source="Student_020" target="Student_029" id="26" weight="8" />
+      <edge source="Student_020" target="Student_034" id="27" weight="7" />
+      <edge source="Student_020" target="Student_048" id="28" weight="7" />
+      <edge source="Student_020" target="Student_022" id="29" weight="6" />
+      <edge source="Student_020" target="Student_042" id="30" weight="6" />
+      <edge source="Student_020" target="Student_045" id="31" weight="6" />
+      <edge source="Student_020" target="Student_036" id="32" weight="5" />
+      <edge source="Student_020" target="Student_021" id="33" weight="4" />
+      <edge source="Student_008" target="Student_049" id="34" weight="28" />
+      <edge source="Student_008" target="Student_020" id="35" weight="24" />
+      <edge source="Student_008" target="Student_023" id="36" weight="22" />
+      <edge source="Student_008" target="Student_009" id="37" weight="20" />
+      <edge source="Student_008" target="Student_037" id="38" weight="20" />
+      <edge source="Student_008" target="Student_016" id="39" weight="18" />
+      <edge source="Student_008" target="Student_024" id="40" weight="17" />
+      <edge source="Student_008" target="Student_048" id="41" weight="14" />
+      <edge source="Student_008" target="Student_002" id="42" weight="14" />
+      <edge source="Student_008" target="Student_047" id="43" weight="10" />
+      <edge source="Student_008" target="Student_028" id="44" weight="9" />
+      <edge source="Student_008" target="Student_029" id="45" weight="8" />
+      <edge source="Student_008" target="Student_018" id="46" weight="8" />
+      <edge source="Student_008" target="Student_027" id="47" weight="8" />
+      <edge source="Student_008" target="Student_044" id="48" weight="7" />
+      <edge source="Student_008" target="Student_046" id="49" weight="7" />
+      <edge source="Student_008" target="Student_013" id="50" weight="7" />
+      <edge source="Student_008" target="Student_025" id="51" weight="7" />
+      <edge source="Student_008" target="Student_007" id="52" weight="6" />
+      <edge source="Student_008" target="Student_045" id="53" weight="6" />
+      <edge source="Student_009" target="Student_023" id="54" weight="13" />
+      <edge source="Student_009" target="Student_020" id="55" weight="13" />
+      <edge source="Student_009" target="Student_002" id="56" weight="12" />
+      <edge source="Student_009" target="Student_031" id="57" weight="9" />
+      <edge source="Student_009" target="Student_008" id="58" weight="9" />
+      <edge source="Student_009" target="Student_037" id="59" weight="8" />
+      <edge source="Student_009" target="Student_049" id="60" weight="8" />
+      <edge source="Student_009" target="Student_024" id="61" weight="7" />
+      <edge source="Student_009" target="Student_025" id="62" weight="7" />
+      <edge source="Student_009" target="Student_013" id="63" weight="7" />
+      <edge source="Student_009" target="Student_047" id="64" weight="6" />
+      <edge source="Student_009" target="Student_016" id="65" weight="5" />
+      <edge source="Student_009" target="Student_045" id="66" weight="5" />
+      <edge source="Student_009" target="Student_043" id="67" weight="5" />
+      <edge source="Student_009" target="Student_028" id="68" weight="4" />
+      <edge source="Student_009" target="Student_011" id="69" weight="4" />
+      <edge source="Student_009" target="Student_042" id="70" weight="3" />
+      <edge source="Student_009" target="Student_048" id="71" weight="3" />
+      <edge source="Student_009" target="Student_032" id="72" weight="3" />
+      <edge source="Student_009" target="Student_044" id="73" weight="3" />
+      <edge source="Student_009" target="Student_027" id="74" weight="3" />
+      <edge source="Student_009" target="Student_029" id="75" weight="3" />
+      <edge source="Student_002" target="Student_023" id="76" weight="21" />
+      <edge source="Student_002" target="Student_009" id="77" weight="21" />
+      <edge source="Student_002" target="Student_037" id="78" weight="18" />
+      <edge source="Student_002" target="Student_045" id="79" weight="15" />
+      <edge source="Student_002" target="Student_049" id="80" weight="14" />
+      <edge source="Student_002" target="Student_046" id="81" weight="14" />
+      <edge source="Student_002" target="Student_020" id="82" weight="13" />
+      <edge source="Student_002" target="Student_016" id="83" weight="12" />
+      <edge source="Student_002" target="Student_029" id="84" weight="12" />
+      <edge source="Student_002" target="Student_042" id="85" weight="11" />
+      <edge source="Student_002" target="Student_013" id="86" weight="11" />
+      <edge source="Student_002" target="Student_025" id="87" weight="10" />
+      <edge source="Student_002" target="Student_008" id="88" weight="10" />
+      <edge source="Student_002" target="Student_024" id="89" weight="10" />
+      <edge source="Student_002" target="Student_043" id="90" weight="8" />
+      <edge source="Student_002" target="Student_048" id="91" weight="7" />
+      <edge source="Student_002" target="Student_047" id="92" weight="7" />
+      <edge source="Student_002" target="Student_028" id="93" weight="6" />
+      <edge source="Student_002" target="Student_034" id="94" weight="6" />
+      <edge source="Student_002" target="Student_031" id="95" weight="6" />
+      <edge source="Student_030" target="Student_035" id="96" weight="15" />
+      <edge source="Student_030" target="Student_044" id="97" weight="9" />
+      <edge source="Student_030" target="Student_015" id="98" weight="8" />
+      <edge source="Student_030" target="Student_050" id="99" weight="6" />
+      <edge source="Student_030" target="Student_025" id="100" weight="4" />
+      <edge source="Student_030" target="Student_041" id="101" weight="4" />
+      <edge source="Student_030" target="Student_001" id="102" weight="4" />
+      <edge source="Student_030" target="Student_046" id="103" weight="4" />
+      <edge source="Student_030" target="Student_032" id="104" weight="3" />
+      <edge source="Student_038" target="Student_043" id="105" weight="23" />
+      <edge source="Student_038" target="Student_046" id="106" weight="12" />
+      <edge source="Student_038" target="Student_029" id="107" weight="12" />
+      <edge source="Student_038" target="Student_044" id="108" weight="10" />
+      <edge source="Student_038" target="Student_034" id="109" weight="9" />
+      <edge source="Student_038" target="Student_013" id="110" weight="8" />
+      <edge source="Student_038" target="Student_023" id="111" weight="8" />
+      <edge source="Student_038" target="Student_024" id="112" weight="7" />
+      <edge source="Student_038" target="Student_019" id="113" weight="6" />
+      <edge source="Student_038" target="Student_037" id="114" weight="6" />
+      <edge source="Student_038" target="Student_028" id="115" weight="6" />
+      <edge source="Student_023" target="Student_009" id="116" weight="24" />
+      <edge source="Student_023" target="Student_002" id="117" weight="24" />
+      <edge source="Student_023" target="Student_020" id="118" weight="20" />
+      <edge source="Student_023" target="Student_045" id="119" weight="19" />
+      <edge source="Student_023" target="Student_008" id="120" weight="19" />
+      <edge source="Student_023" target="Student_013" id="121" weight="17" />
+      <edge source="Student_023" target="Student_037" id="122" weight="16" />
+      <edge source="Student_023" target="Student_024" id="123" weight="15" />
+      <edge source="Student_023" target="Student_047" id="124" weight="13" />
+      <edge source="Student_023" target="Student_025" id="125" weight="12" />
+      <edge source="Student_023" target="Student_042" id="126" weight="9" />
+      <edge source="Student_023" target="Student_048" id="127" weight="8" />
+      <edge source="Student_023" target="Student_049" id="128" weight="8" />
+      <edge source="Student_023" target="Student_016" id="129" weight="7" />
+      <edge source="Student_023" target="Student_038" id="130" weight="7" />
+      <edge source="Student_023" target="Student_031" id="131" weight="6" />
+      <edge source="Student_023" target="Student_046" id="132" weight="6" />
+      <edge source="Student_023" target="Student_028" id="133" weight="6" />
+      <edge source="Student_013" target="Student_020" id="134" weight="18" />
+      <edge source="Student_013" target="Student_045" id="135" weight="16" />
+      <edge source="Student_013" target="Student_023" id="136" weight="16" />
+      <edge source="Student_013" target="Student_009" id="137" weight="12" />
+      <edge source="Student_013" target="Student_002" id="138" weight="12" />
+      <edge source="Student_013" target="Student_047" id="139" weight="11" />
+      <edge source="Student_013" target="Student_046" id="140" weight="10" />
+      <edge source="Student_013" target="Student_043" id="141" weight="9" />
+      <edge source="Student_013" target="Student_037" id="142" weight="9" />
+      <edge source="Student_013" target="Student_024" id="143" weight="9" />
+      <edge source="Student_013" target="Student_042" id="144" weight="9" />
+      <edge source="Student_013" target="Student_016" id="145" weight="8" />
+      <edge source="Student_013" target="Student_029" id="146" weight="7" />
+      <edge source="Student_013" target="Student_038" id="147" weight="7" />
+      <edge source="Student_013" target="Student_022" id="148" weight="7" />
+      <edge source="Student_013" target="Student_048" id="149" weight="6" />
+      <edge source="Student_013" target="Student_008" id="150" weight="5" />
+      <edge source="Student_013" target="Student_034" id="151" weight="5" />
+      <edge source="Student_021" target="Student_022" id="152" weight="9" />
+      <edge source="Student_021" target="Student_011" id="153" weight="7" />
+      <edge source="Student_021" target="Student_031" id="154" weight="5" />
+      <edge source="Student_021" target="Student_044" id="155" weight="4" />
+      <edge source="Student_021" target="Student_015" id="156" weight="3" />
+      <edge source="Student_021" target="Student_020" id="157" weight="3" />
+      <edge source="Student_024" target="Student_047" id="158" weight="18" />
+      <edge source="Student_024" target="Student_045" id="159" weight="16" />
+      <edge source="Student_024" target="Student_008" id="160" weight="15" />
+      <edge source="Student_024" target="Student_020" id="161" weight="15" />
+      <edge source="Student_024" target="Student_023" id="162" weight="15" />
+      <edge source="Student_024" target="Student_009" id="163" weight="14" />
+      <edge source="Student_024" target="Student_029" id="164" weight="12" />
+      <edge source="Student_024" target="Student_002" id="165" weight="12" />
+      <edge source="Student_024" target="Student_043" id="166" weight="11" />
+      <edge source="Student_024" target="Student_044" id="167" weight="11" />
+      <edge source="Student_024" target="Student_048" id="168" weight="10" />
+      <edge source="Student_024" target="Student_013" id="169" weight="9" />
+      <edge source="Student_024" target="Student_037" id="170" weight="9" />
+      <edge source="Student_024" target="Student_025" id="171" weight="8" />
+      <edge source="Student_024" target="Student_046" id="172" weight="8" />
+      <edge source="Student_024" target="Student_042" id="173" weight="7" />
+      <edge source="Student_024" target="Student_016" id="174" weight="6" />
+      <edge source="Student_024" target="Student_049" id="175" weight="6" />
+      <edge source="Student_024" target="Student_038" id="176" weight="6" />
+      <edge source="Student_024" target="Student_031" id="177" weight="6" />
+      <edge source="Student_024" target="Student_007" id="178" weight="6" />
+      <edge source="Student_016" target="Student_020" id="179" weight="13" />
+      <edge source="Student_016" target="Student_031" id="180" weight="12" />
+      <edge source="Student_016" target="Student_008" id="181" weight="12" />
+      <edge source="Student_016" target="Student_002" id="182" weight="11" />
+      <edge source="Student_016" target="Student_037" id="183" weight="10" />
+      <edge source="Student_016" target="Student_049" id="184" weight="9" />
+      <edge source="Student_016" target="Student_047" id="185" weight="8" />
+      <edge source="Student_016" target="Student_009" id="186" weight="8" />
+      <edge source="Student_016" target="Student_013" id="187" weight="7" />
+      <edge source="Student_016" target="Student_025" id="188" weight="7" />
+      <edge source="Student_016" target="Student_044" id="189" weight="6" />
+      <edge source="Student_016" target="Student_023" id="190" weight="6" />
+      <edge source="Student_016" target="Student_045" id="191" weight="5" />
+      <edge source="Student_016" target="Student_024" id="192" weight="5" />
+      <edge source="Student_016" target="Student_050" id="193" weight="5" />
+      <edge source="Student_016" target="Student_042" id="194" weight="4" />
+      <edge source="Student_016" target="Student_007" id="195" weight="4" />
+      <edge source="Student_042" target="Student_043" id="196" weight="16" />
+      <edge source="Student_042" target="Student_045" id="197" weight="14" />
+      <edge source="Student_042" target="Student_047" id="198" weight="12" />
+      <edge source="Student_042" target="Student_002" id="199" weight="12" />
+      <edge source="Student_042" target="Student_007" id="200" weight="11" />
+      <edge source="Student_042" target="Student_031" id="201" weight="10" />
+      <edge source="Student_042" target="Student_048" id="202" weight="9" />
+      <edge source="Student_042" target="Student_023" id="203" weight="8" />
+      <edge source="Student_042" target="Student_013" id="204" weight="8" />
+      <edge source="Student_042" target="Student_046" id="205" weight="8" />
+      <edge source="Student_042" target="Student_020" id="206" weight="7" />
+      <edge source="Student_042" target="Student_024" id="207" weight="7" />
+      <edge source="Student_042" target="Student_036" id="208" weight="6" />
+      <edge source="Student_042" target="Student_009" id="209" weight="6" />
+      <edge source="Student_042" target="Student_025" id="210" weight="5" />
+      <edge source="Student_042" target="Student_016" id="211" weight="5" />
+      <edge source="Student_011" target="Student_022" id="212" weight="8" />
+      <edge source="Student_011" target="Student_021" id="213" weight="7" />
+      <edge source="Student_011" target="Student_044" id="214" weight="5" />
+      <edge source="Student_011" target="Student_009" id="215" weight="4" />
+      <edge source="Student_011" target="Student_031" id="216" weight="3" />
+      <edge source="Student_011" target="Student_033" id="217" weight="3" />
+      <edge source="Student_011" target="Student_028" id="218" weight="3" />
+      <edge source="Student_032" target="Student_050" id="219" weight="10" />
+      <edge source="Student_032" target="Student_020" id="220" weight="7" />
+      <edge source="Student_032" target="Student_046" id="221" weight="6" />
+      <edge source="Student_032" target="Student_015" id="222" weight="6" />
+      <edge source="Student_032" target="Student_009" id="223" weight="4" />
+      <edge source="Student_032" target="Student_048" id="224" weight="4" />
+      <edge source="Student_032" target="Student_030" id="225" weight="3" />
+      <edge source="Student_029" target="Student_048" id="226" weight="10" />
+      <edge source="Student_029" target="Student_002" id="227" weight="10" />
+      <edge source="Student_029" target="Student_043" id="228" weight="10" />
+      <edge source="Student_029" target="Student_024" id="229" weight="10" />
+      <edge source="Student_029" target="Student_031" id="230" weight="8" />
+      <edge source="Student_029" target="Student_038" id="231" weight="8" />
+      <edge source="Student_029" target="Student_020" id="232" weight="8" />
+      <edge source="Student_029" target="Student_045" id="233" weight="6" />
+      <edge source="Student_029" target="Student_037" id="234" weight="6" />
+      <edge source="Student_029" target="Student_013" id="235" weight="5" />
+      <edge source="Student_029" target="Student_008" id="236" weight="5" />
+      <edge source="Student_029" target="Student_047" id="237" weight="5" />
+      <edge source="Student_029" target="Student_046" id="238" weight="5" />
+      <edge source="Student_029" target="Student_009" id="239" weight="4" />
+      <edge source="Student_043" target="Student_038" id="240" weight="17" />
+      <edge source="Student_043" target="Student_042" id="241" weight="14" />
+      <edge source="Student_043" target="Student_048" id="242" weight="11" />
+      <edge source="Student_043" target="Student_029" id="243" weight="11" />
+      <edge source="Student_043" target="Student_046" id="244" weight="10" />
+      <edge source="Student_043" target="Student_047" id="245" weight="10" />
+      <edge source="Student_043" target="Student_024" id="246" weight="10" />
+      <edge source="Student_043" target="Student_020" id="247" weight="10" />
+      <edge source="Student_043" target="Student_013" id="248" weight="8" />
+      <edge source="Student_043" target="Student_009" id="249" weight="8" />
+      <edge source="Student_043" target="Student_002" id="250" weight="8" />
+      <edge source="Student_043" target="Student_007" id="251" weight="6" />
+      <edge source="Student_043" target="Student_045" id="252" weight="5" />
+      <edge source="Student_043" target="Student_044" id="253" weight="5" />
+      <edge source="Student_043" target="Student_034" id="254" weight="5" />
+      <edge source="Student_043" target="Student_036" id="255" weight="4" />
+      <edge source="Student_037" target="Student_020" id="256" weight="27" />
+      <edge source="Student_037" target="Student_002" id="257" weight="23" />
+      <edge source="Student_037" target="Student_008" id="258" weight="19" />
+      <edge source="Student_037" target="Student_009" id="259" weight="18" />
+      <edge source="Student_037" target="Student_023" id="260" weight="17" />
+      <edge source="Student_037" target="Student_049" id="261" weight="14" />
+      <edge source="Student_037" target="Student_016" id="262" weight="14" />
+      <edge source="Student_037" target="Student_025" id="263" weight="14" />
+      <edge source="Student_037" target="Student_047" id="264" weight="12" />
+      <edge source="Student_037" target="Student_048" id="265" weight="11" />
+      <edge source="Student_037" target="Student_013" id="266" weight="10" />
+      <edge source="Student_037" target="Student_024" id="267" weight="10" />
+      <edge source="Student_037" target="Student_028" id="268" weight="8" />
+      <edge source="Student_037" target="Student_029" id="269" weight="8" />
+      <edge source="Student_037" target="Student_045" id="270" weight="7" />
+      <edge source="Student_037" target="Student_044" id="271" weight="7" />
+      <edge source="Student_037" target="Student_031" id="272" weight="7" />
+      <edge source="Student_037" target="Student_046" id="273" weight="7" />
+      <edge source="Student_037" target="Student_038" id="274" weight="6" />
+      <edge source="Student_047" target="Student_024" id="275" weight="10" />
+      <edge source="Student_047" target="Student_023" id="276" weight="7" />
+      <edge source="Student_047" target="Student_042" id="277" weight="7" />
+      <edge source="Student_047" target="Student_048" id="278" weight="7" />
+      <edge source="Student_047" target="Student_045" id="279" weight="7" />
+      <edge source="Student_047" target="Student_013" id="280" weight="7" />
+      <edge source="Student_047" target="Student_043" id="281" weight="6" />
+      <edge source="Student_047" target="Student_009" id="282" weight="6" />
+      <edge source="Student_047" target="Student_037" id="283" weight="6" />
+      <edge source="Student_047" target="Student_016" id="284" weight="6" />
+      <edge source="Student_047" target="Student_020" id="285" weight="6" />
+      <edge source="Student_047" target="Student_008" id="286" weight="5" />
+      <edge source="Student_047" target="Student_046" id="287" weight="4" />
+      <edge source="Student_047" target="Student_002" id="288" weight="4" />
+      <edge source="Student_047" target="Student_044" id="289" weight="4" />
+      <edge source="Student_047" target="Student_029" id="290" weight="4" />
+      <edge source="Student_045" target="Student_023" id="291" weight="17" />
+      <edge source="Student_045" target="Student_013" id="292" weight="16" />
+      <edge source="Student_045" target="Student_002" id="293" weight="15" />
+      <edge source="Student_045" target="Student_024" id="294" weight="15" />
+      <edge source="Student_045" target="Student_042" id="295" weight="14" />
+      <edge source="Student_045" target="Student_047" id="296" weight="11" />
+      <edge source="Student_045" target="Student_009" id="297" weight="9" />
+      <edge source="Student_045" target="Student_029" id="298" weight="7" />
+      <edge source="Student_045" target="Student_020" id="299" weight="7" />
+      <edge source="Student_045" target="Student_016" id="300" weight="6" />
+      <edge source="Student_045" target="Student_037" id="301" weight="6" />
+      <edge source="Student_045" target="Student_046" id="302" weight="6" />
+      <edge source="Student_045" target="Student_035" id="303" weight="6" />
+      <edge source="Student_045" target="Student_048" id="304" weight="6" />
+      <edge source="Student_045" target="Student_043" id="305" weight="6" />
+      <edge source="Student_045" target="Student_022" id="306" weight="5" />
+      <edge source="Student_045" target="Student_008" id="307" weight="5" />
+      <edge source="Student_045" target="Student_007" id="308" weight="5" />
+      <edge source="Student_025" target="Student_020" id="309" weight="14" />
+      <edge source="Student_025" target="Student_009" id="310" weight="9" />
+      <edge source="Student_025" target="Student_037" id="311" weight="9" />
+      <edge source="Student_025" target="Student_023" id="312" weight="9" />
+      <edge source="Student_025" target="Student_002" id="313" weight="9" />
+      <edge source="Student_025" target="Student_028" id="314" weight="7" />
+      <edge source="Student_025" target="Student_016" id="315" weight="6" />
+      <edge source="Student_025" target="Student_024" id="316" weight="6" />
+      <edge source="Student_025" target="Student_030" id="317" weight="5" />
+      <edge source="Student_025" target="Student_042" id="318" weight="4" />
+      <edge source="Student_025" target="Student_008" id="319" weight="4" />
+      <edge source="Student_007" target="Student_042" id="320" weight="4" />
+      <edge source="Student_007" target="Student_003" id="321" weight="3" />
+      <edge source="Student_007" target="Student_022" id="322" weight="3" />
+      <edge source="Student_007" target="Student_043" id="323" weight="2" />
+      <edge source="Student_007" target="Student_031" id="324" weight="2" />
+      <edge source="Student_007" target="Student_024" id="325" weight="2" />
+      <edge source="Student_007" target="Student_008" id="326" weight="2" />
+      <edge source="Student_007" target="Student_045" id="327" weight="2" />
+      <edge source="Student_007" target="Student_016" id="328" weight="2" />
+      <edge source="Student_007" target="Student_001" id="329" weight="2" />
+      <edge source="Student_031" target="Student_009" id="330" weight="9" />
+      <edge source="Student_031" target="Student_016" id="331" weight="8" />
+      <edge source="Student_031" target="Student_020" id="332" weight="8" />
+      <edge source="Student_031" target="Student_036" id="333" weight="5" />
+      <edge source="Student_031" target="Student_021" id="334" weight="5" />
+      <edge source="Student_031" target="Student_042" id="335" weight="5" />
+      <edge source="Student_031" target="Student_029" id="336" weight="5" />
+      <edge source="Student_031" target="Student_050" id="337" weight="4" />
+      <edge source="Student_031" target="Student_033" id="338" weight="4" />
+      <edge source="Student_031" target="Student_011" id="339" weight="3" />
+      <edge source="Student_031" target="Student_006" id="340" weight="3" />
+      <edge source="Student_031" target="Student_048" id="341" weight="3" />
+      <edge source="Student_031" target="Student_002" id="342" weight="3" />
+      <edge source="Student_031" target="Student_023" id="343" weight="3" />
+      <edge source="Student_031" target="Student_037" id="344" weight="3" />
+      <edge source="Student_031" target="Student_007" id="345" weight="3" />
+      <edge source="Student_031" target="Student_024" id="346" weight="3" />
+      <edge source="Student_035" target="Student_015" id="347" weight="24" />
+      <edge source="Student_035" target="Student_030" id="348" weight="14" />
+      <edge source="Student_035" target="Student_050" id="349" weight="6" />
+      <edge source="Student_035" target="Student_001" id="350" weight="4" />
+      <edge source="Student_035" target="Student_046" id="351" weight="4" />
+      <edge source="Student_035" target="Student_045" id="352" weight="3" />
+      <edge source="Student_035" target="Student_036" id="353" weight="3" />
+      <edge source="Student_035" target="Student_026" id="354" weight="3" />
+      <edge source="Student_046" target="Student_002" id="355" weight="11" />
+      <edge source="Student_046" target="Student_043" id="356" weight="8" />
+      <edge source="Student_046" target="Student_013" id="357" weight="7" />
+      <edge source="Student_046" target="Student_038" id="358" weight="7" />
+      <edge source="Student_046" target="Student_050" id="359" weight="7" />
+      <edge source="Student_046" target="Student_032" id="360" weight="7" />
+      <edge source="Student_046" target="Student_015" id="361" weight="6" />
+      <edge source="Student_046" target="Student_042" id="362" weight="6" />
+      <edge source="Student_046" target="Student_047" id="363" weight="6" />
+      <edge source="Student_046" target="Student_024" id="364" weight="6" />
+      <edge source="Student_046" target="Student_048" id="365" weight="5" />
+      <edge source="Student_046" target="Student_035" id="366" weight="4" />
+      <edge source="Student_046" target="Student_045" id="367" weight="4" />
+      <edge source="Student_046" target="Student_008" id="368" weight="4" />
+      <edge source="Student_046" target="Student_023" id="369" weight="4" />
+      <edge source="Student_046" target="Student_030" id="370" weight="4" />
+      <edge source="Student_046" target="Student_037" id="371" weight="4" />
+      <edge source="Student_046" target="Student_029" id="372" weight="4" />
+      <edge source="Student_046" target="Student_003" id="373" weight="4" />
+      <edge source="Student_001" target="Student_015" id="374" weight="6" />
+      <edge source="Student_001" target="Student_034" id="375" weight="4" />
+      <edge source="Student_001" target="Student_035" id="376" weight="4" />
+      <edge source="Student_001" target="Student_041" id="377" weight="4" />
+      <edge source="Student_001" target="Student_030" id="378" weight="4" />
+      <edge source="Student_001" target="Student_007" id="379" weight="3" />
+      <edge source="Student_001" target="Student_006" id="380" weight="3" />
+      <edge source="Student_027" target="Student_020" id="381" weight="7" />
+      <edge source="Student_027" target="Student_049" id="382" weight="7" />
+      <edge source="Student_027" target="Student_008" id="383" weight="5" />
+      <edge source="Student_027" target="Student_009" id="384" weight="5" />
+      <edge source="Student_003" target="Student_007" id="385" weight="5" />
+      <edge source="Student_003" target="Student_046" id="386" weight="3" />
+      <edge source="Student_036" target="Student_031" id="387" weight="6" />
+      <edge source="Student_036" target="Student_044" id="388" weight="4" />
+      <edge source="Student_036" target="Student_015" id="389" weight="3" />
+      <edge source="Student_036" target="Student_042" id="390" weight="3" />
+      <edge source="Student_036" target="Student_020" id="391" weight="3" />
+      <edge source="Student_036" target="Student_035" id="392" weight="3" />
+      <edge source="Student_036" target="Student_022" id="393" weight="3" />
+      <edge source="Student_036" target="Student_043" id="394" weight="2" />
+      <edge source="Student_006" target="Student_044" id="395" weight="3" />
+      <edge source="Student_006" target="Student_031" id="396" weight="3" />
+      <edge source="Student_006" target="Student_033" id="397" weight="3" />
+      <edge source="Student_006" target="Student_034" id="398" weight="2" />
+      <edge source="Student_006" target="Student_022" id="399" weight="2" />
+      <edge source="Student_006" target="Student_001" id="400" weight="2" />
+      <edge source="Student_022" target="Student_021" id="401" weight="7" />
+      <edge source="Student_022" target="Student_011" id="402" weight="6" />
+      <edge source="Student_022" target="Student_007" id="403" weight="3" />
+      <edge source="Student_022" target="Student_044" id="404" weight="3" />
+      <edge source="Student_022" target="Student_020" id="405" weight="3" />
+      <edge source="Student_022" target="Student_033" id="406" weight="3" />
+      <edge source="Student_022" target="Student_013" id="407" weight="3" />
+      <edge source="Student_022" target="Student_045" id="408" weight="2" />
+      <edge source="Student_022" target="Student_036" id="409" weight="2" />
+      <edge source="Student_022" target="Student_006" id="410" weight="2" />
+      <edge source="Student_044" target="Student_030" id="411" weight="11" />
+      <edge source="Student_044" target="Student_020" id="412" weight="8" />
+      <edge source="Student_044" target="Student_024" id="413" weight="8" />
+      <edge source="Student_044" target="Student_011" id="414" weight="7" />
+      <edge source="Student_044" target="Student_038" id="415" weight="6" />
+      <edge source="Student_044" target="Student_036" id="416" weight="6" />
+      <edge source="Student_044" target="Student_016" id="417" weight="6" />
+      <edge source="Student_044" target="Student_006" id="418" weight="6" />
+      <edge source="Student_044" target="Student_022" id="419" weight="5" />
+      <edge source="Student_044" target="Student_021" id="420" weight="5" />
+      <edge source="Student_044" target="Student_047" id="421" weight="5" />
+      <edge source="Student_044" target="Student_037" id="422" weight="4" />
+      <edge source="Student_044" target="Student_008" id="423" weight="4" />
+      <edge source="Student_044" target="Student_009" id="424" weight="4" />
+      <edge source="Student_044" target="Student_043" id="425" weight="4" />
+      <edge source="Student_044" target="Student_048" id="426" weight="4" />
+      <edge source="Student_044" target="Student_034" id="427" weight="4" />
+      <edge source="Student_034" target="Student_020" id="428" weight="2" />
+      <edge source="Student_034" target="Student_001" id="429" weight="2" />
+      <edge source="Student_034" target="Student_038" id="430" weight="2" />
+      <edge source="Student_034" target="Student_049" id="431" weight="1" />
+      <edge source="Student_034" target="Student_002" id="432" weight="1" />
+      <edge source="Student_034" target="Student_019" id="433" weight="1" />
+      <edge source="Student_034" target="Student_043" id="434" weight="1" />
+      <edge source="Student_034" target="Student_013" id="435" weight="1" />
+      <edge source="Student_034" target="Student_006" id="436" weight="1" />
+      <edge source="Student_034" target="Student_044" id="437" weight="1" />
+      <edge source="Student_028" target="Student_020" id="438" weight="9" />
+      <edge source="Student_028" target="Student_025" id="439" weight="8" />
+      <edge source="Student_028" target="Student_008" id="440" weight="7" />
+      <edge source="Student_028" target="Student_009" id="441" weight="7" />
+      <edge source="Student_028" target="Student_037" id="442" weight="7" />
+      <edge source="Student_028" target="Student_002" id="443" weight="7" />
+      <edge source="Student_028" target="Student_011" id="444" weight="6" />
+      <edge source="Student_028" target="Student_023" id="445" weight="5" />
+      <edge source="Student_028" target="Student_038" id="446" weight="5" />
+      <edge source="Student_028" target="Student_049" id="447" weight="5" />
+      <edge source="Student_010" target="Student_041" id="448" weight="3" />
+      <edge source="Student_010" target="Student_015" id="449" weight="3" />
+      <edge source="Student_018" target="Student_049" id="450" weight="2" />
+      <edge source="Student_018" target="Student_008" id="451" weight="2" />
+      <edge source="Student_019" target="Student_034" id="452" weight="4" />
+      <edge source="Student_019" target="Student_038" id="453" weight="3" />
+      <edge source="Student_019" target="Student_040" id="454" weight="3" />
+      <edge source="Student_026" target="Student_035" id="455" weight="11" />
+      <edge source="Student_049" target="Student_008" id="456" weight="21" />
+      <edge source="Student_049" target="Student_002" id="457" weight="14" />
+      <edge source="Student_049" target="Student_009" id="458" weight="14" />
+      <edge source="Student_049" target="Student_037" id="459" weight="11" />
+      <edge source="Student_049" target="Student_020" id="460" weight="10" />
+      <edge source="Student_049" target="Student_016" id="461" weight="10" />
+      <edge source="Student_049" target="Student_027" id="462" weight="8" />
+      <edge source="Student_049" target="Student_023" id="463" weight="7" />
+      <edge source="Student_049" target="Student_018" id="464" weight="6" />
+      <edge source="Student_049" target="Student_034" id="465" weight="6" />
+      <edge source="Student_049" target="Student_024" id="466" weight="5" />
+      <edge source="Student_049" target="Student_028" id="467" weight="4" />
+      <edge source="Student_050" target="Student_015" id="468" weight="14" />
+      <edge source="Student_050" target="Student_032" id="469" weight="10" />
+      <edge source="Student_050" target="Student_035" id="470" weight="7" />
+      <edge source="Student_050" target="Student_030" id="471" weight="7" />
+      <edge source="Student_050" target="Student_046" id="472" weight="7" />
+      <edge source="Student_050" target="Student_031" id="473" weight="6" />
+      <edge source="Student_050" target="Student_016" id="474" weight="4" />
+      <edge source="Student_048" target="Student_029" id="475" weight="10" />
+      <edge source="Student_048" target="Student_043" id="476" weight="10" />
+      <edge source="Student_048" target="Student_047" id="477" weight="9" />
+      <edge source="Student_048" target="Student_008" id="478" weight="9" />
+      <edge source="Student_048" target="Student_024" id="479" weight="8" />
+      <edge source="Student_048" target="Student_037" id="480" weight="7" />
+      <edge source="Student_048" target="Student_042" id="481" weight="7" />
+      <edge source="Student_048" target="Student_020" id="482" weight="6" />
+      <edge source="Student_048" target="Student_023" id="483" weight="6" />
+      <edge source="Student_048" target="Student_002" id="484" weight="6" />
+      <edge source="Student_048" target="Student_046" id="485" weight="6" />
+      <edge source="Student_048" target="Student_031" id="486" weight="5" />
+      <edge source="Student_048" target="Student_009" id="487" weight="5" />
+      <edge source="Student_048" target="Student_013" id="488" weight="5" />
+      <edge source="Student_048" target="Student_045" id="489" weight="4" />
+      <edge source="Student_048" target="Student_044" id="490" weight="4" />
+      <edge source="Student_048" target="Student_032" id="491" weight="4" />
+      <edge source="Student_033" target="Student_031" id="492" weight="2" />
+      <edge source="Student_033" target="Student_022" id="493" weight="2" />
+      <edge source="Student_033" target="Student_011" id="494" weight="2" />
+      <edge source="Student_033" target="Student_006" id="495" weight="2" />
+      <edge source="Student_041" target="Student_010" id="496" weight="3" />
+      <edge source="Student_041" target="Student_001" id="497" weight="2" />
+      <edge source="Student_041" target="Student_030" id="498" weight="2" />
+      <edge source="Student_040" target="Student_019" id="499" weight="4" />
+    </edges>
+  </graph>
+</gexf>
