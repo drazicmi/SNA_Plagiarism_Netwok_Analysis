@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import os
 
-filePath = 'data-set/Results 1_anonymized.csv'
+filePath = 'data_set/Results 1_anonymized.csv'
 
 # SECTION_1: Dataset analysis
 
@@ -46,7 +46,6 @@ print(student_similarity.sum().sort_values(by='lines_matched', ascending=False))
     Graph is directed. Edges are weighted using actor's percentage in a pair.
     Nodes represent students, Edges represent connection between two students.
     If a pair exists, we create a edge directed from actor1 to actor2 and edge from actor2 to actor1.
-    Since the pairs are 
 """
 
 
@@ -63,7 +62,7 @@ for _, row in data.iterrows():
 print(f'Number of nodes in graph: {graph.number_of_nodes()}')
 print(f'Number of edges in graph: {graph.number_of_edges()}')
 
-# print(graph) -> Graph with 44 nodes and 250 edges
+# print(graph) -> Graph with 44 nodes and 500 edges
 
 # Question 1
 network_density = nx.density(graph)
@@ -322,7 +321,7 @@ print(f"\n--- Question 10 Results ---")
 print(top_final[['Node', 'CSI_Score', 'InDeg_Norm', 'Auth_Norm']])
 
 # In order to answer other questions, we export the graph we created and worked on into a gephi-ready format
-nx.write_gexf(graph, "gephi\DZ1Net_gephi.gexf")
+nx.write_gexf(graph, os.path.join("gephi_export", "DZ1Net_gephi.gexf"))
 
 
 # Question 13 and 14
